@@ -1,0 +1,1 @@
+export const same = (x: any): any => x;
